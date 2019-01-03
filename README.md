@@ -41,7 +41,6 @@ Accuracy: 94.23769507803121%
 
 If you use this code or data, please cite the paper:
 ```
-
 @Article{s19010146,
 AUTHOR = {Cuculo, Vittorio and D’Amelio, Alessandro and Grossi, Giuliano and Lanzarotti, Raffaella and Lin, Jianyi},
 TITLE = {Robust Single-Sample Face Recognition by Sparsity-Driven Sub-Dictionary Learning Using Deep Features},
