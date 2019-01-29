@@ -4,8 +4,7 @@
 ¹ [PHuSe Lab](https://phuselab.di.unimi.it) - Dipartimento di Informatica, Università degli Studi di Milano  
 ² Department of Mathematics, Khalifa University of Science and Technology
 
-**Paper** *Cuculo V, D’Amelio A, Grossi G, Lanzarotti R, Lin J. Robust Single-Sample Face Recognition by Sparsity-Driven Sub-Dictionary Learning Using Deep Features. Sensors. 2019; 19(1):146.*  
-https://www.mdpi.com/1424-8220/19/1/146  
+**Paper** https://www.mdpi.com/1424-8220/19/1/146  
 
 ![pipeline](diagram.png "Method pipeline")
 
